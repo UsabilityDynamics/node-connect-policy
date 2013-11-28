@@ -1,23 +1,23 @@
 {
-  "name": "express-schema",
+  "name": "connect-schema",
   "description": "Express route schema middleware.",
   "version": "0.1.0",
-  "homepage": "http://github.com/UsabilityDynamics/node-express-schema",
+  "homepage": "http://github.com/UsabilityDynamics/node-connect-schema",
   "author": {
     "name": "Usability Dynamics",
     "email": "info@UsabilityDynamics.com",
     "url": "http://UsabilityDynamics.com"
   },
   "bugs": {
-    "url": "http://github.com/UsabilityDynamics/node-express-schema/issues"
+    "url": "http://github.com/UsabilityDynamics/node-connect-schema/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/UsabilityDynamics/node-express-schema/blob/master/LICENSE-MIT"
+      "url": "http://github.com/UsabilityDynamics/node-connect-schema/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/express-schema.js",
+  "main": "lib/connect-schema.js",
   "engines": {
     "node": ">=0.10.21"
   },
