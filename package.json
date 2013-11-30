@@ -1,23 +1,23 @@
 {
-  "name": "connect-schema",
-  "description": "Express route schema middleware.",
+  "name": "connect-policy",
+  "description": "Express route policy middleware.",
   "version": "0.1.0",
-  "homepage": "http://github.com/UsabilityDynamics/node-connect-schema",
+  "homepage": "http://github.com/UsabilityDynamics/node-connect-policy",
   "author": {
     "name": "Usability Dynamics",
     "email": "info@UsabilityDynamics.com",
     "url": "http://UsabilityDynamics.com"
   },
   "bugs": {
-    "url": "http://github.com/UsabilityDynamics/node-connect-schema/issues"
+    "url": "http://github.com/UsabilityDynamics/node-connect-policy/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/UsabilityDynamics/node-connect-schema/blob/master/LICENSE-MIT"
+      "url": "http://github.com/UsabilityDynamics/node-connect-policy/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/connect-schema.js",
+  "main": "lib/connect-policy.js",
   "engines": {
     "node": ">=0.10.21"
   },
