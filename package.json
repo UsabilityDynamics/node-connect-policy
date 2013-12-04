@@ -3,6 +3,10 @@
   "description": "Express route policy middleware.",
   "version": "0.1.0",
   "homepage": "http://github.com/UsabilityDynamics/node-connect-policy",
+  "repository": {
+    "url": "git@github.com:UsabilityDynamics/node-connect-policy.git",
+    "type": "git"
+  },
   "author": {
     "name": "Usability Dynamics",
     "email": "info@UsabilityDynamics.com",
