@@ -1,11 +1,14 @@
-Express route schema middleware.
+Express route policy middleware.
 
 ## Getting Started
-Install the module with: `npm install express-schema`
+Install the module with: `npm install connect-policy`
 
 ```javascript
-var express_schema = require('express-schema');
-express_schema.awesome(); // "awesome"
+var connect_policy = require( 'connect-policy' ).create;
+
+// Mount Policy Middleware to Express Application
+app.use( connect_policy );
+
 ```
 ## Usage
 
